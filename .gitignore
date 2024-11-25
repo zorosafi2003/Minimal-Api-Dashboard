@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MiniApp.Api/bin/Debug/net8.0
+/MiniApp.Api/obj
+/MiniApp.Application/bin/Debug/net8.0
+/MiniApp.Application/obj
+/MiniApp.Dal/bin/Debug/net8.0
+/MiniApp.Dal/obj
+/MiniApp.Models/bin/Debug/net8.0
+/MiniApp.Models/obj
+/MiniApp.Persistence/bin/Debug/net8.0
+/MiniApp.Persistence/obj
